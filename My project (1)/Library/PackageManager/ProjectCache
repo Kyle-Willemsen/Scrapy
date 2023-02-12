@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638095316664942402
-    m_Hash: 3621549423
+      ticks: 638118054163352489
+    m_Hash: 1973293893
   m_LockFileStatus:
     m_FilePath: H:/Documents/GitHub/Scrapyard/Scrapy/My project (1)/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638095316665762821
-    m_Hash: 1053469173
+      ticks: 638118054163362496
+    m_Hash: 2786929103
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
